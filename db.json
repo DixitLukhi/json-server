@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dixit",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Manan",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Vishali",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Keya",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "AP",
+      "gender": "male"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
